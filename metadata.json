@@ -1,0 +1,5 @@
+{
+  "name": "de last matchstick",
+  "description": "Een klassiek Nim spel genaamd 'de last matchstick' met 3 rijen luciferstokjes (3, 5, 7). De speler die het laatste stokje moet pakken verliest.",
+  "requestFramePermissions": []
+}
